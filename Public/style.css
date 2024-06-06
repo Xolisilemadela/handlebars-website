@@ -1,0 +1,62 @@
+.tablemountain{
+   background-image: url("Public/tablemountain.jpg.jpeg"); 
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 200px;
+}
+
+.imag-p {
+   margin-left: 50%;
+}
+
+.container{
+   margin-top: 20px;
+}
+
+.flex-container{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
+
+.flex-item{
+   flex-basis: 20%;
+   margin-bottom: 20px;
+   padding: 10px;
+   border: 1px blueviolet;
+   border-radius: 5px;
+}
+.header{
+   color: white;
+   display: flex;
+}
+.header img{
+height: 180px;
+border-radius: 20px;
+margin-top: 10px;
+}
+.interest-item img{
+   width: 45%;
+   height: min-content;
+   border-radius: 5px;
+}
+
+.grid-item table{
+   width: 100%;
+   border-collapse: collapse;
+   margin-top: 20px;
+}
+
+.grid-item table th,
+.grid-item table td{
+   border: 1px blueviolet; 
+   padding: 8px;
+   text-align: left;
+}
+.grid-item table th{
+   background-color: blueviolet;
+}
+
+
+

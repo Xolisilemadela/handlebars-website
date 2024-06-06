@@ -1,0 +1,49 @@
+{
+    "user": {
+        "fullName": "Xolisile Madela",
+        "photo": "./myself.jpg.jpg"
+    },
+    "city": {
+        "name": "Eswatini",
+        "photo": "./swaziland.jpeg",
+        "description": "i would like Swaziland, As one of the few remaining monarchies in Africa, culture and her overwhelming friendliness of the people makes all visitors feel truly welcome and very safe."
+    },
+    "foreignLanguage": {
+        "language": "Swahili",
+        "phrases": [
+            "Swahili (also known as Kiswahili) is the most commonly spoken language in sub-Saharan Africa i want to explore this language as the unique in the african culture",
+            {
+                "englishPhrase": "Howareyou",
+                "foreignLanguage": "Habari gani?"
+            },
+            {
+                "englishPhrase": "What are you doing",
+                "foreignLanguage": "Unafanya nini?"
+            }
+        ]
+    },
+
+    "interestitems": {
+
+    },
+    "favouriteSubjects": {
+        "title": " favouriteSubjects",
+        "subjects": [
+            {
+                "name": "Networking and Architecture",
+                "photo": "./favouritesubject.jpeg",
+                "description": "Network architecture refers to how computers are organized in a system and how tasks are allocated between these computers. Two of the most widely used types of network architecture are peer-to-peer and client/server. Client/server architecture is also called 'tiered' because it uses multiple levels."
+            },
+            {
+                "name1": "engineering business systems",
+                "photo1": "./engineeringbusinesssystems.jpeg",
+                "description1": "Business systems engineers can implement various business applications and CRM programs. They upgrade existing hardware and software for more efficiency in an organization. These system engineers in some cases will have an understanding of relational databases like Microsoft Access and SQL."
+            },
+            {
+                "name2": "database Management",
+                "photo2": "./database.png",
+                "description2": "A database management system (or DBMS) is essentially nothing more than a computerized data-keeping system. Users of the system are given facilities to perform several kinds of operations on such a system for either manipulation of the data in the database or the management of the database structure itself."
+            }
+        ]
+    }
+}
